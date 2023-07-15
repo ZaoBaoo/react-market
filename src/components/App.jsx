@@ -1,5 +1,4 @@
-
-function App() {
+const App = () => {
   return (
     <div className="App">
       тест
@@ -7,4 +6,4 @@ function App() {
   );
 }
 
-export default App;
+export {App};
